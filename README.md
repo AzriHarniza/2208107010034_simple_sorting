@@ -5,10 +5,10 @@ Program ini adalah sebuah program sederhana yang mengimplementasikan tiga algori
 Langkah menjalankan program :
 1. Pastikan Anda memiliki kompiler C yang terinstal di sistem Anda, seperti GCC (GNU Compiler Collection).
 2. Buka terminal atau command prompt di sistem Anda.
-3. Salin repositori program ini ke komputer Anda
-4. Masuk ke direktori program dengan menggunakan perintah cd. Contoh:
-5. Compile program menggunakan compiler C. Jika nama file program adalah sorting_program.c, gunakan perintah:
-6. Setelah kompilasi selesai, jalankan program dengan mengetikkan:
+3. Salin repositori program ini ke komputer Anda.
+4. Masuk ke direktori program. 
+5. Compile program menggunakan compiler C.
+6. Setelah kompilasi selesai, jalankan program.
 7. Program akan mengeksekusi dan outputnya akan ditampilkan di terminal atau command prompt. 
 
 Penjelasan Fungsi yang Ada:
