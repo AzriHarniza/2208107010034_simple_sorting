@@ -1,4 +1,4 @@
-# 2208107010034_simple_sorting
+# 2208107010034_Simple_Sorting
 tugas 2 SDA
 Program ini adalah sebuah program sederhana yang mengimplementasikan tiga algoritma pengurutan, yaitu Bubble Sort, Selection Sort, dan Insertion Sort. Program ini bertujuan untuk mengukur waktu eksekusi dari ketiga algoritma pengurutan tersebut.
 
